@@ -27,3 +27,7 @@ alias sf='php app/console'
 alias sfprod='php app/console --env=prod'
 alias sfcc='php app/console cache:clear'
 alias sfai='php app/console assets:install --symlink'
+
+# vagrant
+alias vu='vagrant up'
+alias vd='vagrant destroy -f'

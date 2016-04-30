@@ -1,0 +1,9 @@
+[alias]
+        co = checkout
+        ci = commit
+        st = status
+        br = branch
+        cob = checkout -b
+        cm = !git add -A && git commit -m 
+        hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+        undo = reset HEAD~1 --mixed

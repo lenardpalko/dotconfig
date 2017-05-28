@@ -31,3 +31,7 @@ alias sfai='php app/console assets:install --symlink'
 # vagrant
 alias vu='vagrant up'
 alias vd='vagrant destroy -f'
+
+# docker
+alias dc='docker-compose'
+alias de='docker exec -it'

@@ -1,4 +1,4 @@
-# Configs
+# Configuration
 
 Contains aliases : bash, git
 
